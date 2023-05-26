@@ -1,0 +1,112 @@
+{
+  "productos": [
+    {
+      "id": "0",
+      "img": "./src/assets/img1.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "1",
+      "img": "./src/assets/img4.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "5",
+      "img": "./src/assets/img6.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "3",
+      "img": "./src/assets/img8.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "4",
+      "img": "./src/assets/img11.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "5",
+      "img": "./src/assets/img13.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "6",
+      "img": "./src/assets/img15.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "7",
+      "img": "./src/assets/img18.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "8",
+      "img": "./src/assets/img20.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "9",
+      "img": "./src/assets/img33.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "10",
+      "img": "./src/assets/img40.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    },
+    {
+      "id": "11",
+      "img": "./src/assets/img42.jpg",
+      "name": "Nombre del Producto",
+      "price": "25",
+      "categoria": "ropa",
+      "descripcion": "Mi nombre no es yasuri y yamile si no wilney perez bebes, soy del barrio bicentanio",
+      "destacado": "1"
+    }
+  ]
+}
